@@ -1,17 +1,13 @@
 <div align="center">
 
-# Eftychia - Oracle Layer
+# Eftychia 
 
 ![image](https://github.com/user-attachments/assets/ceb95c7b-1b5b-4565-a05c-c2b93d922129)
 
 
-## Treasury Wallet
-
-SOL Address:
+## An open-source oracle for connecting AI agents to data oracle's
 
 </div>
-
-An open-source oracle for connecting AI agents to Social Media and Solana
 
 - Scale Datasets
 - Constant Datafeed
@@ -23,6 +19,10 @@ An open-source oracle for connecting AI agents to Social Media and Solana
   - Top gainers analysis
   - Token information lookup
   - Latest pool tracking
+
+## Treasury Wallet
+
+SOL Address:
 
 ## 🤖 AI Integration Features
 
@@ -50,6 +50,7 @@ An open-source oracle for connecting AI agents to Social Media and Solana
   - Automated decision-making capabilities
 
 ## 📃 Documentation
+
 
 
 ## 📦 Core Installation
@@ -299,43 +300,6 @@ const txId = await agent.methods.swapSanctumLST(
 
 console.log('txId', txId)
 ```
-
-
-### Get Chain Data
-
-Note: To use OKX DEX integration, you need to set up the following environment variables: Get OKX API keys from the [OKX Developer Portal] (https://www.okx.com/web3/build/dev-portal)
-- `OKX_API_KEY`
-- `OKX_SECRET_KEY`
-- `OKX_API_PASSPHRASE`
-- `OKX_PROJECT_ID`
-- `RPC_URL`
-- `SOLANA_PRIVATE_KEY`
-- `SOLANA_WALLET_ADDRESS`
-
-## Examples
-
-### LangGraph Multi-Agent System
-
-The repository includes an advanced example of building a multi-agent system using LangGraph and Solana Agent Kit. Located in `examples/agent-kit-langgraph`, this example demonstrates:
-
-- Multi-agent architecture using LangGraph's StateGraph
-- Specialized agents for different tasks:
-  - General purpose agent for basic queries
-  - Transfer/Swap agent for transaction operations
-  - Read agent for blockchain data queries
-  - Manager agent for routing and orchestration
-- Fully typed TypeScript implementation
-- Environment-based configuration
-
-Check out the [LangGraph example](examples/agent-kit-langgraph) for a complete implementation of an advanced Solana agent system.
-
-## Dependencies
-
-The toolkit relies on several key Solana and Metaplex libraries:
-
-- @solana/web3.js
-- @metaplex-foundation/digital-asset-standard-api
-- @coingecko/sdk
 
 ## Contributing
 
