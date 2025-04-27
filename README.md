@@ -8,6 +8,12 @@
 
 </div>
 
+## Treasury Wallet
+
+SOL Address:
+
+## 🤖 AI Integration Features
+
 - Scale Datasets
 - Constant Datafeed
 - Deploy Datasets
@@ -18,35 +24,6 @@
   - Top gainers analysis
   - Token information lookup
   - Latest pool tracking
-
-## Treasury Wallet
-
-SOL Address:
-
-## 🤖 AI Integration Features
-
-- **LangChain Integration**
-  - Ready-to-use LangChain tools for blockchain operations
-  - Autonomous agent support with React framework
-  - Memory management for persistent interactions
-  - Streaming responses for real-time feedback
-
-- **Vercel AI SDK Integration**
-  - Vercel AI SDK for AI agent integration
-  - Framework agnostic support
-  - Quick and easy toolkit setup
-
-- **Autonomous Modes**
-  - Interactive chat mode for guided operations
-  - Autonomous mode for independent agent actions
-  - Configurable action intervals
-  - Built-in error handling and recovery
-
-- **AI Tools**
-  - DALL-E integration for NFT artwork generation
-  - Natural language processing for blockchain commands
-  - Price feed integration for market analysis
-  - Automated decision-making capabilities
 
 ## 📃 Documentation
 
