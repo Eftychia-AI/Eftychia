@@ -2,10 +2,9 @@
 
 # Eftychia 
 
-![image](https://github.com/user-attachments/assets/ceb95c7b-1b5b-4565-a05c-c2b93d922129)
-
-
 ## An open-source oracle for connecting AI agents to data oracle's
+
+![image](https://github.com/user-attachments/assets/ceb95c7b-1b5b-4565-a05c-c2b93d922129)
 
 </div>
 
